@@ -10,10 +10,10 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Xml;
 using System.Xml.Serialization;
-using Autodesk.RevitAddIns;
 using Dynamo.NUnit.Tests;
 using Microsoft.Practices.Prism;
 using NDesk.Options;
+using Autodesk.RevitAddIns;
 
 namespace RTF.Framework
 {

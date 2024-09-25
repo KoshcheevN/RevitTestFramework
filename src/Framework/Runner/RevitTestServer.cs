@@ -1,20 +1,7 @@
 ﻿using System;
 using System.Net;
 using System.Net.Sockets;
-using System.Collections.Generic;
-using System.Collections.ObjectModel;
-using System.Diagnostics;
-using System.Globalization;
-using System.IO;
 using System.Linq;
-using System.Reflection;
-using System.Runtime.InteropServices;
-using System.Text;
-using System.Xml.Serialization;
-using Autodesk.RevitAddIns;
-using Dynamo.NUnit.Tests;
-using Microsoft.Practices.Prism;
-using NDesk.Options;
 
 namespace RTF.Framework
 {
